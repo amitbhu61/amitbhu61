@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Patel
-- 👀 I’m interested in Data Analyst!
-- 🌱 I’m currently learning Spring boot!
+- 👀 I’m interested in AI!
+- 🌱 I’m currently learning AI and Gen AI!
 - 💞️ I’m looking to collaborate in more exceptional projects!
 - 📫 How to reach me- amitbhu61@gmail.com
 
